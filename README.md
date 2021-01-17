@@ -1,7 +1,7 @@
 # NLP-Toolkit
 This is an explonatary repository which contains some useful NLP tools and their implementations.
  
-## Functionsd
+## Functions
  - Plots
    - WordCloud
    - Heaps Law
@@ -31,4 +31,6 @@ or
  ```
 3.Check for the examples folder in order to learn how to use the following modules.
 
-
+## Sample Datasets
+- T_sample5000.pkl
+- T_sample20000.pkl
