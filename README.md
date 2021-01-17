@@ -29,7 +29,7 @@ or
  ```
  pip install -r requirements.txt
  ```
-3.Check for the examples folder in order to learn how to use the following modules.
+3.Check for the examples folder in order to learn how to use the existing modules.
 
 ## Sample Datasets
 - T_sample5000.pkl
