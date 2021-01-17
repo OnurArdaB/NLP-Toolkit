@@ -3,17 +3,17 @@ This is an explonatary repository which contains some useful NLP tools and their
  
 ## Functionsd
  - Plots
-  - WordCloud
-  - Heaps Law
-  - Zipfs Law
+   - WordCloud
+   - Heaps Law
+   - Zipfs Law
   
  - Language Models
-  - MLE
-  - KneserNeyInterpolated
+   - MLE
+   - KneserNeyInterpolated
   
- -word2vec (gensim)
-  -CBOW
-  -skip-gram
+ - word2vec (gensim)
+   - CBOW
+   - skip-gram
   
 ## Setup
 1.Download the source code.
