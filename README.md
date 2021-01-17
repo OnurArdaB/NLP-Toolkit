@@ -2,14 +2,14 @@
 This is an explonatary repository which contains some useful NLP tools and their implementations.
  
 ## Functionsd
- -Plots
-  -WordCloud
-  -Heaps Law
-  -Zipfs Law
+ - Plots
+  - WordCloud
+  - Heaps Law
+  - Zipfs Law
   
- -Language Models
-  -MLE
-  -KneserNeyInterpolated
+ - Language Models
+  - MLE
+  - KneserNeyInterpolated
   
  -word2vec (gensim)
   -CBOW
@@ -22,7 +22,7 @@ This is an explonatary repository which contains some useful NLP tools and their
  ```
 or
  ```
- python -m virutalenv venv
+ python -m virtualenv venv
  ```
 
 2.Lauch the below command in order to download the requirements.
