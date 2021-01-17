@@ -34,3 +34,6 @@ or
 ## Sample Datasets
 - T_sample5000.pkl
 - T_sample20000.pkl
+
+##Acknowledgements
+Many thanks to Reyyan Yeniterzi for providing us the data set with function definitions.
